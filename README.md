@@ -39,8 +39,12 @@ recommended to install it yourself. [here](https://www.7-zip.org/)
 2. Extract the zip file.
 3. Open terminal
 4. Navigate to the release directory 
+<<<<<<< HEAD
    - (usually `/Users/$USER/Library/Application Support/Steam/steamapps/common/Balatro` 
       where `$USER` is your username)
+=======
+   - (usually `/Users/$USER/Library/Application Support/Steam/steamapps/common/Balatro` where `$USER` is your username)
+>>>>>>> 787e38dd4234d7745da131f629dc56c0ef266354
 5. Run `./balatro-music-patch`
 6. Follow the instructions in the program.
 
