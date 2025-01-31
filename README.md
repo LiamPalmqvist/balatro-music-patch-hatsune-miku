@@ -71,9 +71,8 @@ recommended to install it yourself. [here](https://www.7-zip.org/)
 
 ## Credit
 
-- Dom Palombi for the music covers.
-  - [Balatro Boss Blind Cover](https://www.youtube.com/watch?v=Uxc0m4GRiuc)
-  - [Balatro Main Theme Cover](https://www.youtube.com/watch?v=WJi6m7R8ADY)
+- Pichu-Pi for the music covers.
+  - [Balatro Main Theme Hatsune Miku Cover](https://www.youtube.com/watch?v=VddKpgteL2U)
 - 7zip for opening archives.
 - PyInstaller for .exe creation.
 - The Balatro team for the game.
