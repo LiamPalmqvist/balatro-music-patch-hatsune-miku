@@ -38,7 +38,9 @@ recommended to install it yourself. [here](https://www.7-zip.org/)
 1. Download the latest release from the link above.
 2. Extract the zip file.
 3. Open terminal
-4. Navigate to the release directory
+4. Navigate to the release directory 
+   - (usually `/Users/$USER/Library/Application Support/Steam/steamapps/common/Balatro` 
+      where `$USER` is your username)
 5. Run `./balatro-music-patch`
 6. Follow the instructions in the program.
 
@@ -71,7 +73,8 @@ recommended to install it yourself. [here](https://www.7-zip.org/)
 
 ## Credit
 
-- Pichu-Pi for the music covers.
+- [Nat3z](https://github.com/Nat3z) for the original patch
+- [Pichu-Pi](https://www.youtube.com/@PichuP) for the music covers.
   - [Balatro Main Theme Hatsune Miku Cover](https://www.youtube.com/watch?v=VddKpgteL2U)
 - 7zip for opening archives.
 - PyInstaller for .exe creation.
