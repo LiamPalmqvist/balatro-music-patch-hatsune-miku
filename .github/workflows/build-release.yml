@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     name: Create Github Release
-    if: github.repository == 'Nat3z/balatro-music-patch'
+    if: github.repository == 'LiamPalmqvist/balatro-music-patch-hatsune-miku'
     runs-on: ubuntu-latest
     outputs:
       upload_url: ${{ steps.create_release.outputs.upload_url }}
